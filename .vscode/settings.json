@@ -1,0 +1,8 @@
+{
+  "editor.fontSize": 12,
+  "markdown-pdf.includeDefaultStyles": true,
+  "markdown-pdf.headerTemplate": "<div style=\"font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 9px; margin-left: 1cm;\">職務経歴書</div><div style=\"font-family: -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; font-size: 9px; margin-left: auto; margin-right: 1cm; \">2019年11月13日（金）</div>",
+  "markdown-pdf.styles": [
+    "/Users/pureone/repository/pureone-tcy/Curriculum-Vitae/css/style.css"
+  ]
+}
