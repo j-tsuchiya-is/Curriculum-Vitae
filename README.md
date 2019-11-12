@@ -1,4 +1,4 @@
-職務経歴書
+# 職務経歴書
 
 ## 基本情報
 - 氏名 : 土屋純一
@@ -50,17 +50,17 @@ SIerからアドテクの会社に入り、ネイティブ広告のシステム�
 - Spring Boot
 
 ### インフラ
-#### AWS
-- VPC, EC2, S3, Athena, RDS（MySQL）
-- Route53, ALB, PrivateLink, Certificate Manager
-- ECS（Fargate+サービスディスカバリー）, ECR, Batch, CloudWatch
-- EMR, Lambda, CloudFormation, CodeDeploy  
-- 個人利用
-  - Amplify, Cognito, AppSync, Elastic Transcoder, SNS（Simple Notification Service）
+- AWS
+  - VPC, EC2, S3, Athena, RDS（MySQL）
+  - Route53, ALB, PrivateLink, Certificate Manager
+  - ECS（Fargate+サービスディスカバリー）, ECR, Batch, CloudWatch
+  - EMR, Lambda, CloudFormation, CodeDeploy  
+  - 個人利用
+    - Amplify, Cognito, AppSync, Elastic Transcoder, SNS（Simple Notification Service）
 
-#### GCP（個人利用）
-- GCE, GCS, Cloud SQL（MySQL）, Load Balancer, Cloud DNS
-- Cloud Functions, GAE
+- GCP（個人利用）
+  - GCE, GCS, Cloud SQL（MySQL）, Load Balancer, Cloud DNS
+  - Cloud Functions, GAE
 
 ### その他
 - ELK Stack (v6.5)
@@ -75,16 +75,11 @@ SIerからアドテクの会社に入り、ネイティブ広告のシステム�
 - GitHub Actions
 
 ### アウトプット
-#### 個人開発（開発中）
-- https://wagoch.com
+- 個人開発（開発中）: https://wagoch.com
   - 外国人観光客と一緒にランチを食べに行くマッチングアプリ
   - PWA化対応中
-
-#### Qiita
-- https://qiita.com/pure-one
-
-#### ブログ
-- https://pureone-tcy.github.io/doc-site/
+- Qiita: https://qiita.com/pure-one
+- ブログ: https://pureone-tcy.github.io/doc-site/
 
 ## 職務経歴
 ### 2018/08 - 株式会社I
@@ -110,21 +105,19 @@ SIerからアドテクの会社に入り、ネイティブ広告のシステム�
 - トラッキングデータの転送（Nginx、Fluentd、S3）、集計処理のリラン、メモリ調整（EMR、Spark）
 
 #### 採用 / 教育 / 活動
-エンジニア採用
-- 中途採用（正社員、業務委託）の書類審査、1次面接を担当（Scala、Java、AWS、GCP経験者）
-- 欲しい人材（マインド・スキル）と、採用のペルソナの変更
+- エンジニア採用
+  - 中途採用（正社員、業務委託）の書類審査、1次面接を担当（Scala、Java、AWS、GCP経験者）
+  - 欲しい人材（マインド・スキル）と、採用のペルソナの変更
 
-エンジニア教育
-- 中途採用者のScalaの基礎教育
-  - Scalaコミュニティ寄贈のドキュメントベースの資料解説
-  - 課題付与（99Scala） / ソースコードレビュー
-- AWSの基礎教育
-  - テスト環境の構築サポート
-
-社内活動
-- 輪読会の実施「Scala関数型デザイン&プログラミング―Scalazコントリビューターによる関数型徹底ガイド」
-  - 現時点で10章まで完了
-- 事業部内エンジニア向け技術共有会（毎月1回程度）
+- エンジニア教育
+  - 中途採用者のScalaの基礎教育
+    - Scalaコミュニティ寄贈のドキュメントベースの資料解説
+    - 課題付与（99Scala） / ソースコードレビュー
+  - AWSの基礎教育
+    - テスト環境の構築サポート
+- 社内活動
+  - 輪読会の実施「Scala関数型デザイン&プログラミング―Scalazコントリビューターによる関数型徹底ガイド」
+  - 事業部内エンジニア向け技術共有会（毎月1回程度）
 
 ## 2013/04 - 2018/06 株式会社N
 ### クレジット決済サービスのバックエンド開発（客先常駐 開発体制約100名）
