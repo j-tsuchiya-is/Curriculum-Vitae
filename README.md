@@ -5,6 +5,7 @@
 - 住所 : 東京都北区
 - メール : pureone.tcy.info@gmail.com
 - Github : https://github.com/pureone-tcy
+- 資格 : Oracle Certified Java Programmer, Silver SE 8
 
 # スキル
 ## プログラミング言語
@@ -36,7 +37,7 @@
 #### AWS
 - VPC, EC2, S3, Athena, RDS（MySQL）
 - Route53, ALB, PrivateLink, Certificate Manager
-- ECS（Fargate+サービスディスカバリー）, ECR, Batch
+- ECS（Fargate+サービスディスカバリー）, ECR, Batch, CloudWatch
 - EMR, Lambda, CloudFormation, CodeDeploy  
 - 個人利用
   - Amplify, Cognito, AppSync, Elastic Transcoder, SNS（Simple Notification Service）
@@ -84,7 +85,7 @@
 #### 開発
 - 開発プロセス : アジャイル、開発手法 : スクラム（4ヵ月ほどスクラムマスターを兼任）
 - レコメンドデータ生成システムのリプレース（AWS、Elasticsearch、Scala、Akka Stream）// 未リリース
-  - 記事と記事の類似度を測定（Elasticsearch、Okapi BM25、More Like This Query、Kibana）  
+  - 記事と記事の類似度を測定（Elasticsearch、Okapi BM25、Logstash、ECS、ECR、CircleCI, Batch, CloudWatch）  
   ![](image/img_system_diagram_no2.png)
   - 移行用のデータパイプライン処理を開発（Route53、ALB、Kinesis、ECS、ECR、Scala、Akka、CircleCI）  
   ![](image/img_system_diagram_no3.png)
