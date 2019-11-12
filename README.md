@@ -71,6 +71,7 @@ SIerからアドテクの会社に入り、ネイティブ広告のシステム�
 - CircleCI
 - Terraform
 - Terraform Cloud
+- GitHub Actions
 
 ## アウトプット
 #### 個人開発（開発中）
