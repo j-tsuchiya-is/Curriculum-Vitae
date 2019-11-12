@@ -82,17 +82,17 @@ SIerからアドテクの会社に入り、ネイティブ広告のシステム�
 - ブログ: https://pureone-tcy.github.io/doc-site/
 
 ## 職務経歴
-### 2018/08 - 株式会社I
+## 2018/08 - 株式会社I
 - 稼働中の新規事業（ネイティブ広告の自社サービス事業）に配属
 - バックエンドエンジニア
   - フロントエンド開発 / インフラ構築 / 運用・保守も担当
 
-#### 広告記事の管理/計測/最適化ツールのバックエンド開発
+### 広告記事の管理/計測/最適化ツールのバックエンド開発
 - 開発プロセス : アジャイル、開発手法 : スクラム（開発チームのメンバー）
 - AWS + Scala + CQRS（Comman: DynamoDB、Query: RDS） + Clean Architecture
 - 管理サイトのフロントエンド開発（PHP、Laravel、Vue.js）
 
-#### レコメンドウィジェット型広告システムの開発・保守・運用
+### レコメンドウィジェット型広告システムの開発・保守・運用
 - 開発プロセス : アジャイル、開発手法 : スクラム（4ヵ月ほどスクラムマスターを兼任）
 - レコメンドデータ生成システムのリプレース（AWS、Elasticsearch、Scala、Akka Stream）// 未リリース
   - 記事と記事の類似度を測定（Elasticsearch、Okapi BM25、Logstash、ECS、ECR、CircleCI, Batch, CloudWatch）  
@@ -100,11 +100,11 @@ SIerからアドテクの会社に入り、ネイティブ広告のシステム�
   - 移行用のデータパイプライン処理を開発（Route53、ALB、Kinesis、ECS、ECR、Scala、Akka、CircleCI）  
   ![](image/img_system_diagram_no3.png)
 
-#### 保守・運用
+### 保守・運用
 - インフラ障害の対応（EC2、ALB、EMR、CodeDeploy、Redis Cluster）
 - トラッキングデータの転送（Nginx、Fluentd、S3）、集計処理のリラン、メモリ調整（EMR、Spark）
 
-#### 採用 / 教育 / 活動
+### 採用 / 教育 / 活動
 - エンジニア採用
   - 中途採用（正社員、業務委託）の書類審査、1次面接を担当（Scala、Java、AWS、GCP経験者）
   - 欲しい人材（マインド・スキル）と、採用のペルソナの変更
